@@ -7,3 +7,5 @@
 ### day2. CNN Network Example
 
 ### day3. Model Augmentation : GAN
+
+### day4. Image Segmentation
